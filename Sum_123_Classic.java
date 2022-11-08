@@ -1,9 +1,8 @@
-import java.io.BufferedInputStream;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Sum_123_new {
+public class Sum_123_Classic {
     static long[] dp = new long[1000001];
     static void find(){
 
